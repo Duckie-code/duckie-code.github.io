@@ -4,7 +4,7 @@ whata cunt found him on discord bullying children and being transphobic
 
 not long ago he got interested in cybersecurity and got initiated into a linux circlejerk from then on hes been a pain in the arse to converse with 
 
-### he do
+### __*he do*__
 
 ```markdown
 -trolling hes troll big
@@ -15,11 +15,11 @@ not long ago he got interested in cybersecurity and got initiated into a linux c
 ```
 
 
-### he dont
+### __*he dont*__
 
 ```markdown
 -sex
--windows :puke:
+-windows :nauseated_face:
 -twitter bullshit
 -lgbtq propoganda if twitter wasnt obvious enough
 ```

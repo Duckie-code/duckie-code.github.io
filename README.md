@@ -1,14 +1,12 @@
-## Welcome to GitHub Pages
+## Duckie
 
-You can use the [editor on GitHub](https://github.com/Duckie-code/duckie-code.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+whata cunt found him on discord bullying children and being transphobic
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+not long ago he got interested in cybersecurity and got initiated into a linux circlejerk from then on hes been a pain in the arse to converse with 
 
-### Markdown
+### some shit he likes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+```
 Syntax highlighted code block
 
 # Header 1

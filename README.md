@@ -4,27 +4,28 @@ whata cunt found him on discord bullying children and being transphobic
 
 not long ago he got interested in cybersecurity and got initiated into a linux circlejerk from then on hes been a pain in the arse to converse with 
 
-### some shit he likes
+### he do
 
-```
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```markdown
+-trolling hes troll big
+-games (aditcted i think)
+-arguing
+-making fun of lgbtq lol retards
+-linux
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### he dont
+
+```markdown
+-sex
+-windows :puke:
+-twitter bullshit
+-lgbtq propoganda if twitter wasnt obvious enough
+```
+
+
+for more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
